@@ -23,6 +23,13 @@ main {
     display: block;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
 button {
     background-color: #8b5a2b;
     color: white;
